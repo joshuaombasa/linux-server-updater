@@ -1,0 +1,4 @@
+db1.local
+web1.local
+web2.local
+pacs-server1.local
